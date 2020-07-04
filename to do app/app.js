@@ -22,7 +22,6 @@ function loadEventListeners()
 
     //filter the tasks
     filter.addEventListener('keyup', filterTasks);
-
 }
 
 //Add Task
