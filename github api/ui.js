@@ -29,7 +29,7 @@ class UI {
                 </div>
                 </div>
             </div>
-            <h3 class="page-heading mb-3">Latest Repos</h3>
+            <h3 class="page-heading mb-3">LATEST REPOSITORIES</h3>
             <div id="repos"></div>
         </div>
         `;
